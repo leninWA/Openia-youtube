@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Descarga MP3 y MP4 de YouTube",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
