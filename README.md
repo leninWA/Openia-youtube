@@ -6,4 +6,4 @@ Proyecto simple para descargar MP3 y MP4 de YouTube usando Node.js.
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/TU_USUARIO/youtube-downloader.git
+git clone https://github.com/leninWA/Openia-youtube.git
